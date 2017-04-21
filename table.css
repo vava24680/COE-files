@@ -1,0 +1,13 @@
+.tablepress-id-9 tr td,
+.tablepress-id-9 .row-1{
+	border: 1px black solid;
+	border-top: 1px black solid;
+	font-size: 0.9rem;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Microsoft JhengHei,serif;
+	font-weight: bold;
+}
+.entry-title{
+display: none;
+}
