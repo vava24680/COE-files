@@ -1,0 +1,10 @@
+.entry-title{
+display:none;
+}
+.list_title{
+	font-size: 1.2rem;
+}
+.list_title > div{
+	font-size: 1rem;
+	text-indent: 2em;
+}
