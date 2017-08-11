@@ -1,0 +1,15 @@
+.inner_div{
+	margin-left: 2em;
+}
+.highlight{
+	font-weight: bold;
+	color: red !important;
+}
+.red_highlight{
+	color: red !important;
+}
+.sub_title{
+	font-size: 1.4rem;
+	color: blue !important;
+	font-weight: bold;
+}
