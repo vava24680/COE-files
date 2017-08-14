@@ -1,0 +1,14 @@
+li>span{
+	color:red;
+	font-size: 1.2rem;
+}
+.highlight_list{
+	color: red;
+	font-size: 1.1rem;
+}
+.content{
+	font-size: 1.1rem;
+}
+.inner_div{
+	margin-left: 2em;
+}
