@@ -1,6 +1,9 @@
 .inner_div{
 	margin-left: 2em;
 }
+.content{
+	font-size: 1.1rem;
+}
 .highlight{
 	color: red;
 }

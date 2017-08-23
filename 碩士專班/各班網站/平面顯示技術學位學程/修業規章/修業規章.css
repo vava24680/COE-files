@@ -1,0 +1,13 @@
+.rule_title{
+	font-size: 1.3rem;
+}
+.sub_title{
+	font-size: 1.1rem;
+}
+.highlight{
+	font-size: 1.2rem;
+	color: red !important;
+}
+.content{
+	font-size: 1rem;
+}
