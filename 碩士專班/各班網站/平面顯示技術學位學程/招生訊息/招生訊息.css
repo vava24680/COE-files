@@ -2,6 +2,9 @@ li>span{
 	color:red;
 	font-size: 1.2rem;
 }
+.highlight_blue{
+	color: blue !important;
+}
 .highlight_list{
 	color: red;
 	font-size: 1.1rem;
@@ -16,8 +19,11 @@ li>span{
 	margin-left: 2em;
 }
 .highlight{
-	color: red;
+	color: red !important;
 }
 .list_title{
 	font-size: 1.2rem;
+}
+.list_content{
+	font-size: 1rem;
 }
