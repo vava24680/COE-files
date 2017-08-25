@@ -6,8 +6,8 @@ li>span{
 	color: red;
 	font-size: 1.1rem;
 }
-.content{
-	font-size: 1.1rem;
+.highlight{
+	color: red !important;
 }
 .inner_div{
 	margin-left: 2em;
