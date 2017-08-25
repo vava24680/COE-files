@@ -9,6 +9,12 @@ li>span{
 .inner_div{
 	margin-left: 2em;
 }
+.inner_div_3em{
+	margin-left: 3em;
+}
 .highlight{
 	color: red !important;
+}
+.highlight_blue{
+	color: blue !important;
 }

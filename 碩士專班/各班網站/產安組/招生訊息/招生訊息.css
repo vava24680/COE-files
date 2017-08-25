@@ -1,3 +1,10 @@
 li>span{
 	color:red;
+	font-size: 1.2rem;
+}
+.highlight{
+	color: red !important;
+}
+.inner_div{
+	margin-left: 2em;
 }
