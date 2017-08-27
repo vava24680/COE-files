@@ -8,3 +8,6 @@ li>span{
 .inner_div{
 	margin-left: 2em;
 }
+.highlight_blue{
+	color: blue !important;
+}
