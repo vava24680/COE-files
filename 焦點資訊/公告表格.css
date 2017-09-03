@@ -1,0 +1,21 @@
+.highlight_red{
+	color: red !important;
+}
+.highlight_blue{
+	color: blue !important;
+}
+.font_bold{
+	font-weight: bold;
+}
+.font_size_1{
+	font-size: 1.2rem;
+}
+.font_size_2{
+	font-size: 1.0rem;
+}
+.inner_div{
+	margin-left: 2em;
+}
+.text_align_center{
+	text-align: center;
+}
